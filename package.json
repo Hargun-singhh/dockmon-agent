@@ -1,0 +1,12 @@
+{
+  "name": "dockmon-agent",
+  "version": "1.0.0",
+  "description": "DockMon Docker monitoring agent",
+  "main": "agent.js",
+  "type": "commonjs",
+  "dependencies": {
+    "dockerode": "^4.0.0",
+    "dotenv": "^16.4.5",
+    "ws": "^8.17.0"
+  }
+}
